@@ -34,3 +34,4 @@ Mindblowing! With just one transistor we could generate a sound!
 [Make your own power supply? ](https://www.instructables.com/Make-a-simple-12-volt-power-supply/)  
 [https://en.wikipedia.org/wiki/Eurorack](https://en.wikipedia.org/wiki/Eurorack)  
 [A standard eurorack case](https://tiptopaudio.com/happyendingkit/)  
+[Some eurorack inspiration](https://note.com/solder_state)  
