@@ -21,9 +21,13 @@ In the kit we will find:
 In addition to the above, you may use wire to connect between points on the board.
 
 ## First try on the breadboard
-The led is lighting. This is already a good sign. 
+The led is lighting. This is already a good sign.  
 <img src="assets/1.jpeg" alt="asset1" width="300"/>  
+
+And it makes sound as well!! Lets hoo it with some other components of our synth rack...  
 <img src="assets/2.jpeg" alt="asset2" width="300"/>  
+
+Mindblowing! With just one transistor we could generate a sound! 
 
 ### Links
 [Mak your own power supply? ](https://www.instructables.com/Make-a-simple-12-volt-power-supply/)  
