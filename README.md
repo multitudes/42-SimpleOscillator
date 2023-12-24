@@ -20,6 +20,11 @@ In the kit we will find:
 - a small piece of prototyping board (perfboard or stripboard)  
 In addition to the above, you may use wire to connect between points on the board.
 
+## First try on the breadboard
+The led is lighting. This is already a good sign. 
+<img src="assets/1.jpeg" alt="asset1" width="300"/>
+<img src="assets/2.jpeg" alt="asset2" width="300"/>
+
 ### Links
 [Mak your own power supply? ](https://www.instructables.com/Make-a-simple-12-volt-power-supply/)  
 [Mt. Brighton Avalanche Oscillator](https://github.com/NorthCoastModularCollective/Mt.-Brighton-Avalanche-Oscillator)
