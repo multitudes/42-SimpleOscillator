@@ -30,5 +30,5 @@ And it makes sound as well!! Lets hoo it with some other components of our synth
 Mindblowing! With just one transistor we could generate a sound! 
 
 ### Links
-[Mak your own power supply? ](https://www.instructables.com/Make-a-simple-12-volt-power-supply/)  
-[Mt. Brighton Avalanche Oscillator](https://github.com/NorthCoastModularCollective/Mt.-Brighton-Avalanche-Oscillator)
+[Mt. Brighton Avalanche Oscillator](https://github.com/NorthCoastModularCollective/Mt.-Brighton-Avalanche-Oscillator)  
+[Make your own power supply? ](https://www.instructables.com/Make-a-simple-12-volt-power-supply/)  
