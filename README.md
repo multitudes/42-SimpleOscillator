@@ -32,3 +32,5 @@ Mindblowing! With just one transistor we could generate a sound!
 ### Links
 [Mt. Brighton Avalanche Oscillator](https://github.com/NorthCoastModularCollective/Mt.-Brighton-Avalanche-Oscillator)  
 [Make your own power supply? ](https://www.instructables.com/Make-a-simple-12-volt-power-supply/)  
+[https://en.wikipedia.org/wiki/Eurorack](https://en.wikipedia.org/wiki/Eurorack)  
+[A standard eurorack case](https://tiptopaudio.com/happyendingkit/)  
